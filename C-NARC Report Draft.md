@@ -126,6 +126,8 @@ Figure 4: Image of the bench setup, including the modified coiled flocculator.
 </div>
 
 **[Nice images!]**
+Great!!
+
 
 The experiment setup shown models the water flow through a plant on a smaller, lab-sized scale as follows:
 1. The blue influent line delivers water to the water pump.
